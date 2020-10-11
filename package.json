@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/sinchi/ticket-client/issues"
   },
-  "homepage": "https://github.com/sinchi/ticket-client#readme"
+  "homepage": "https://github.com/sinchi/ticket-client#readme",
+  "dependencies": {
+    "react": "^16.13.1"
+  }
 }
